@@ -4,12 +4,12 @@
 To develop a python control code to move the mobilerobot along the predefined path.
 
 ## Equipments Required:
-1. RoboMaster EP core
-2. Python 3.7
+1. RoboMaster EP core.
+2. Python 3.7 
 
-## Procedure
+## Procedure:
 
-step1:
+Step1:
 
 Use from robomaster import robot.
 
@@ -30,7 +30,7 @@ Step5:
 Give ep_chassis.drive_speed to have a circular movement.
 
 
-# Program
+## Program:
 ```python
 from robomaster import robot
 import time
